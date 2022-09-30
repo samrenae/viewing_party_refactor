@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/Users/alma/Developer/classroom/viewing_party_refactor/venv/bin/python3.10
+=======
+#!/Users/samanthahunt/Developer/classroom/viewing_party_refactor/venv/bin/python3.9
+>>>>>>> bd547866e8d725721cf720371c9918e60adfbd5d
 # -*- coding: utf-8 -*-
 import re
 import sys
